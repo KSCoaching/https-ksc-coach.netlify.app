@@ -1,0 +1,12 @@
+/* Base styles for the app */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  background-color: #0b0b0b;
+  color: white;
+}
+
+#root {
+  min-height: 100vh;
+}
